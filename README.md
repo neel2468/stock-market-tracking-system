@@ -1,5 +1,6 @@
 #  Stock Market Tracking System Backend 
 ##  Implemented using node js, express and mongo db 
+##  To get live data of IEX cloud API is used
 
 ### Rest API Endpoints
 
